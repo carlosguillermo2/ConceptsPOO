@@ -1,2 +1,2 @@
 # ConceptsPOO
-Aprendiendo C#
+Aprendiendo Conceptos POO con Visual Studio y C#
